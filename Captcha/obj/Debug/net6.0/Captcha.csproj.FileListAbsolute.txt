@@ -1,0 +1,12 @@
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.csproj.AssemblyReference.cache
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.AssemblyInfoInputs.cache
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.AssemblyInfo.cs
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.csproj.CoreCompileInputs.cache
+C:\Project\Captcha\Captcha\bin\Debug\net6.0\Captcha.deps.json
+C:\Project\Captcha\Captcha\bin\Debug\net6.0\Captcha.dll
+C:\Project\Captcha\Captcha\bin\Debug\net6.0\Captcha.pdb
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.dll
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\refint\Captcha.dll
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\Captcha.pdb
+C:\Project\Captcha\Captcha\obj\Debug\net6.0\ref\Captcha.dll

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CrossPlatform.Captcha</id>
+    <version>1.0.0</version>
+    <title>Cross Platform Captcha (linux-windows-mac-container)</title>
+    <authors>Mohammad Zarrabi</authors>
+    <icon>mhz.jpg</icon>
+    <description>Creating a simple captcha by downloading a font from the Internet that can be executed on any platform
+The produced photo is of Base64 type and is not stored anywhere
+
+CaptchaHelper.GetCaptcha(60)     ==&gt; time for expire token
+CaptchaHelper.ValidateCaptcha()</description>
+    <tags>captch,cross platform,container captcha,webapi captcha,</tags>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.Fonts" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.ImageSharp" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.ImageSharp.Drawing" version="2.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Project\Captcha\Captcha\bin\Debug\net6.0\Captcha.dll" target="lib\net6.0\Captcha.dll" />
+    <file src="C:\Users\USER\Desktop\1x\mhz.jpg" target="\mhz.jpg" />
+  </files>
+</package>
