@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <PackageIcon>mhz.jpg</PackageIcon>
     <PackageId>CrossPlatform.Captcha</PackageId>
-    <Title>Cross Platform Captcha (linux-windows-mac-container)</Title>
+    <Title>CrossPlatform.Captcha</Title>
     <Authors>Mohammad Zarrabi</Authors>
     <Description>Creating a simple captcha by downloading a font from the Internet that can be executed on any platform
 The produced photo is of Base64 type and is not stored anywhere
@@ -14,12 +14,20 @@ The produced photo is of Base64 type and is not stored anywhere
 CaptchaHelper.GetCaptcha(60)     ==&gt; time for expire token
 CaptchaHelper.ValidateCaptcha()
 </Description>
-    <PackageReadmeFile></PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>captch,cross platform,container captcha,webapi captcha,</PackageTags>
+    <RepositoryUrl>https://github.com/mhzsam/Captcha</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\..\Users\USER\Desktop\1x\mhz.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
