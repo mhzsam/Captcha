@@ -7,7 +7,7 @@
 - Automatic download of the required font
 
 # CrossPlatform.Captcha
-![](https://drive.google.com/uc?export=download&id=12QrzTO2VH5tAkbEh6g4nIgYCTWFTSEEx)
+![](https://github.com/mhzsam/Captcha/blob/main/image/mhz.jpg)
 
 ##### Links:
 [github](https://github.com/mhzsam/Captcha)
@@ -60,8 +60,9 @@ If you enter the CaptchaToken and enter its Key **incorrectly**, the token will 
 ## Sample photo created
 
 
-![](https://drive.google.com/uc?export=download&id=1q_CWZON-tHAtxwsNZ-B61jRB5uv7y5bs)
-![](https://drive.google.com/uc?export=download&id=1WhZcsJUnDBS0rESU4-dZl4SDfnrx_e39)
-![](https://drive.google.com/uc?export=download&id=17-8uiR-NWyzAEn3xwIyOKjIBKvRCAHPT)
+![](https://github.com/mhzsam/Captcha/blob/main/image/i1.png?raw=true)
+![](https://github.com/mhzsam/Captcha/blob/main/image/i2.png?raw=true)
+![](https://github.com/mhzsam/Captcha/blob/main/image/i3.png?raw=true)
+
 
 ### End

@@ -23,7 +23,7 @@ CaptchaHelper.ValidateCaptcha()
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\Users\USER\Desktop\1x\mhz.jpg">
+    <None Include="..\image\mhz.jpg">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
